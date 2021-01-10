@@ -1,4 +1,4 @@
-#Task
+# Task
 
 Variables named firstInteger, firstDecimal , and firstString are declared for you in the editor below. You must use the + operator to perform the following sequence of operations:
 
